@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+island;Working+on+casting+magic;Drum+and+Bass+and+assembly+code;I+love+malware)](https://git.io/typing-svg)
 
 <!--
 **peroxidee/peroxidee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
