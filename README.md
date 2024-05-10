@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+island;Working+on+casting+magic;Drum+and+Bass+and+assembly+code;I+love+malware)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+island;Working+on+casting+magic;Drum+and+Bass+and+assembly+code;I+love+malware;Listening+to+Caroline+Polachek;Dreaming+in+the+dream;Hack+The+Planet;The+pool+on+the+roof+must+have+a+leak+.)](https://git.io/typing-svg)
 
 ![peroxidee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peroxidee&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
