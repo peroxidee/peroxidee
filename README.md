@@ -10,7 +10,7 @@ they/them, 19, pst timezone
 - amteur hour hacker
 - breakbeat eater
 - prophecy giver
-
+[redirect yourself to git.gay](https://git.gay/peroxidee)
 <!--
 **peroxidee/peroxidee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
