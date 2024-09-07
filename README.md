@@ -4,12 +4,14 @@
 
 
 ##### 🌱🌱🌱 welcome to peroxidee 🌱🌱🌱
-they/them, 19, pst timezone
-- CSUSB College Student
+they/them, 20, pst timezone
+- college student 
+- amateur hour hacker
 - malware enthusiast
-- amteur hour hacker
-- breakbeat eater
-- prophecy giver
+- cybersec / infosec
+- prone to visions of the wrong register
+
+
 [redirect yourself to git.gay](https://git.gay/peroxidee)
 <!--
 **peroxidee/peroxidee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
