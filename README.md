@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+island;Working+on+crafting+curses;Drum+and+Bass+and+assembly+code;I+love+malware;Listening+to+Caroline+Polachek;Dreaming+in+the+dream)](https://git.io/typing-svg)
-
+[![peroxidee's GitHub stats](https://github-readme-stats.vercel.app/api?username=peroxidee)](https://github.com/anuraghazra/github-readme-stats)
 ![peroxidee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peroxidee&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 
