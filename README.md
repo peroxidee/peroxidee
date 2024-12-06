@@ -2,7 +2,7 @@
 ![peroxidee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peroxidee&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 
-##### 🌱🌱🌱 welcome to peroxidee 🌱🌱🌱
+##### 🌱🌱🌱 welcome to my island 🌱🌱🌱
 they/them, 20, pst timezone
 - college student 
 - amateur hour hacker
