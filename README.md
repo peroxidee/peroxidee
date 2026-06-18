@@ -4,7 +4,7 @@
 
 ##### hej
 they/them, 21, pst timezone
-- college student 
+- college GRADUATE 
 - amateur hour hacker
 - malware enthusiast
 - cybersec / infosec
